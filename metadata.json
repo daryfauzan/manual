@@ -2,7 +2,7 @@
   "metadata": {
     "domain": "manual",
     "theme": {
-      "name": "chocolate",
+      "name": "vanilla",
       "index_file": {
         "filename": "index.html"
       },
@@ -20,85 +20,85 @@
     }
   },
   "data": {
-    "countdown": "2024-07-04T18:45:00",
+    "countdown": "2024-03-18T00:00:00",
     "couple": {
       "bride": {
-        "short_name": "Sarah",
-        "full_name": "Sarah Springer",
-        "description": "Beauty of All Things",
+        "short_name": "Surti",
+        "full_name": "Surti Sutrisna",
+        "description": "Putri dari Bapak Shoheb dan Ibu Bestie",
         "image": {
-          "filename": "8.jpg"
+          "filename": "1.jpg"
         }
       },
       "groom": {
-        "short_name": "John",
-        "full_name": "Micheal John",
-        "description": "Son of the GOAT",
+        "short_name": "Tedo",
+        "full_name": "Tedjo Sutedjo",
+        "description": "Putra dari Bapak Priyadi dan Ibu Ayu",
         "image": {
-          "filename": "9.jpg"
+          "filename": "2.jpg"
         }
       }
     },
-    "quotes": "This denaumant of my old self",
+    "quotes": "if it's not tight it's not right",
     "events": [
       {
-        "name": "Mariage Contract",
-        "place": "Katedral Katolik Hati Kudus",
-        "address": "Jl. Polisi Istimewa No.15",
-        "start_time": "09:00:00",
-        "end_time": "12:00:00",
-        "date": "2024-07-04",
-        "maps_link": "https://www.google.com/maps/place/Gereja+Katolik+Hati+Kudus+Yesus/@-7.2808117,112.7393691,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd7fbc22b998d6f:0x88faf46541b12332!8m2!3d-7.280817!4d112.741944!16s%2Fg%2F1hc11yc31?hl=en&entry=ttu"
+        "name": "Akad Nikah",
+        "place": "Masjid Agung Surabaya",
+        "address": "Jl. Masjid Al-AkbarTimur No.1",
+        "start_time": "10:00:00",
+        "end_time": "11:00:00",
+        "date": "2023-03-18",
+        "maps_link": "https://www.google.com/maps/place/al-Akbar+National+Mosque+Surabaya/@-7.3366088,112.7126057,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd7fba9cfb6dfab:0x6fe7210ef241206!8m2!3d-7.3366141!4d112.7151806!16s%2Fg%2F120yl6q8?entry=ttu"
       },
       {
-        "name": "Afterparty",
-        "place": "Hotel JW Marriot",
-        "address": "PPRM+6R Kedungdoro, Surabaya, East Java",
-        "start_time": "20:00:00",
+        "name": "Resepsi Nikah",
+        "place": "Hotel Majapahit Surabaya",
+        "address": "Tunjungan St No.65",
+        "start_time": "18:30:00",
         "end_time": null,
-        "date": "2024-07-04",
-        "maps_link": "https://www.google.com/maps/place/JW+Marriott+Hotel+Surabaya/@-7.2593922,112.7319735,17z/data=!3m1!4b1!4m9!3m8!1s0x2dd7f95cf6ee1ae7:0x604e1eba44859541!5m2!4m1!1i2!8m2!3d-7.2593975!4d112.7345484!16s%2Fg%2F1v5ds04c?hl=en&entry=ttu"
+        "date": "2023-03-18",
+        "maps_link": "https://www.google.com/maps/place/Hotel+Majapahit+Surabaya/@-7.259825,112.7378442,17z/data=!3m1!4b1!4m9!3m8!1s0x2dd7f9677b35a2c9:0x35c42aa40adf3646!5m2!4m1!1i2!8m2!3d-7.2598294!4d112.7399478!16s%2Fm%2F03g_ybl?entry=ttu"
       }
     ],
     "gallery": [
       {
-        "filename": "9.jpg"
-      },
-      {
-        "filename": "8.jpg"
-      },
-      {
-        "filename": "7.jpg"
-      },
-      {
-        "filename": "6.jpg"
-      },
-      {
-        "filename": "5.jpg"
-      },
-      {
-        "filename": "4.jpg"
-      },
-      {
-        "filename": "3.jpg"
+        "filename": "1.jpg"
       },
       {
         "filename": "2.jpg"
       },
       {
-        "filename": "1.jpg"
+        "filename": "3.jpg"
+      },
+      {
+        "filename": "4.jpg"
+      },
+      {
+        "filename": "5.jpg"
+      },
+      {
+        "filename": "6.jpg"
+      },
+      {
+        "filename": "7.jpg"
+      },
+      {
+        "filename": "8.jpg"
+      },
+      {
+        "filename": "9.jpg"
       }
     ],
     "accounts": [
       {
-        "owner": "Sarah Springer",
-        "number": "313313",
-        "bank": "Nyan Bank"
+        "owner": "Surti",
+        "number": "123456",
+        "bank": "BCA"
       },
       {
-        "owner": "Micheal John",
-        "number": "909090",
-        "bank": "Neko Bank"
+        "owner": "Tedjo",
+        "number": "987654",
+        "bank": "Mandiri"
       }
     ]
   }
